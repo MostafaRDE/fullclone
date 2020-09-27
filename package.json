@@ -1,0 +1,44 @@
+{
+    "name": "fullclone",
+    "version": "1.0.1",
+    "description": "Deep clone for anything",
+    "main": "dist/index.js",
+    "typings": "typs/index.d.ts",
+    "directories": {
+        "lib": "lib",
+        "test": "tests"
+    },
+    "scripts": {
+        "test": "node tests/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MostafaRDE/fullclone.git"
+    },
+    "keywords": [
+        "fullclone",
+        "full-clone",
+        "clone",
+        "copy",
+        "full",
+        "json-stringify",
+        "stringify-parse",
+        "object",
+        "copy-objects",
+        "clone-objects",
+        "json-stringify-json-parse",
+        "deep-clone",
+        "deep-copy",
+        "typescript",
+        "ts"
+    ],
+    "author": "Mostafa Rostam Dokht Effati",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/MostafaRDE/fullclone/issues"
+    },
+    "homepage": "https://github.com/MostafaRDE/fullclone#readme",
+    "dependencies": {
+        "@rosokht/fullclone": "^0.9.1"
+    }
+}
